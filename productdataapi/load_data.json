@@ -1,0 +1,55 @@
+ [
+  {
+    "model": "productdataapi.productdata",
+    "pk": "1b2f7b83-7b4d-441d-a210-afaa970e5b76",
+    "fields":{
+      "name":"Leche",
+      "value":"3500"
+    }
+  },
+  {
+    "model": "productdataapi.productdata",
+    "pk": "49a6307e-c261-414d-86f5-c6004bcec8ab",
+    "fields":{
+      "name":"Arroz",
+      "value":"3200"
+    }
+  },
+  {
+    "model": "productdataapi.productdata",
+    "pk": "a237ed14-88fb-45f3-b9b1-471877dbdc60",
+    "fields":{
+      "name":"Pan",
+      "value":"500"
+    }   
+  },
+  {
+    "model": "productdataapi.productdata",
+    "pk": "a237ed14-88fb-45f3-b9b1-471877dbaa18",
+    "fields":{
+      "name":"Gaseosa",
+      "value": "150"}    
+  }
+  ,
+  {
+    "model": "productdataapi.productdata",
+    "pk": "a247ed14-88fb-45f3-b9b1-471877dbaa19",
+    "fields":{
+      "name":"Panela",
+      "value": "1550"}    
+  },
+  {
+    "model": "productdataapi.productdata",
+    "pk": "a237ed14-88fb-45f3-b9b1-471877dbaa24",
+    "fields":{
+      "name":"Carne",
+      "value": "5500"}    
+  },
+  {
+    "model": "productdataapi.productdata",
+    "pk": "a237ed14-88fb-45f3-b9b1-471877dbaa18",
+    "fields":{
+      "name":"Yuca",
+      "value": "50"}    
+  }
+]
